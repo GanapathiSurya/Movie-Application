@@ -175,4 +175,4 @@ Test the below scenarios from Postman
 
 9) System should not allow the user to perform any action after unsuccessful authentication (invalid token, expired token, empty token). 
 
-10) ystem should not allow admin user to update/remove non-existent movie (Invalid Id) 
+10) System should not allow admin user to update/remove non-existent movie (Invalid Id) 
