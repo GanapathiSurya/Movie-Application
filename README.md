@@ -1,7 +1,7 @@
 Movie Application 
 
 Introduction 
-The Movie App is developed using NestJS and MongoDB. It has two types of users – Admin and Normal User. Normal user can fetch the details of all movies. Admin user can fetch the movie details, add/update/remove the movie details in the application. It is built with Authentication and Authorization for all endpoints. This app covers all scenarios mentioned in problem statement and more details for the same provided as well.  
+The Movie App is developed using NestJS and MongoDB. This app solves the given problem statement covering the use of APIs development, Authentication / Authorization, Interceptors, Guards, Pipes, Middleware, Decorators etc in NestJS. This app has two types of users – Admin and Normal User. Normal user can fetch the details of all movies. Admin user can fetch the movie details, add/update/remove the movie details in the application. It is built with Authentication and Authorization for all endpoints. This app covers all scenarios mentioned in problem statement and more details for the same provided as well.
 
 Installations required: 
 1) VS Code 
@@ -26,6 +26,12 @@ Procedure to Setup Movie App:
 > npm run start:dev 
 
 6) Server starts running at http://localhost:8001 
+
+7) Run APIs, please refer below. 
+
+8) Run Tests 
+	> npx jest
+
 
 Running Movie App APIs 
 
